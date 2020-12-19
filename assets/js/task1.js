@@ -1,3 +1,4 @@
+//This is just doing the same exercices
 const wordsinfrench = [
     'mère',
     'père',
