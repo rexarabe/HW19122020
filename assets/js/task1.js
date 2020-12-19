@@ -50,3 +50,5 @@ for (i=2; i <= fibo; i++){
     arrfibo.push(Fibonacci(i));
 }
 console.log(arrfibo)
+
+//Task 4*
