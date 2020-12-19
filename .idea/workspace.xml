@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="425fec0e-3986-4dcd-ba43-0c08980cae36" name="Default Changelist" comment="" />
+    <list default="true" id="425fec0e-3986-4dcd-ba43-0c08980cae36" name="Default Changelist" comment="I add a comment.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/task1.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/task1.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lrxlkTVkIHtOLcur1Q41qs4XIQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,6 +33,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Node.js.task1.js">
@@ -50,33 +63,61 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608369165101</updated>
-      <workItem from="1608369166580" duration="1510000" />
+      <workItem from="1608369166580" duration="2222000" />
     </task>
+    <task id="LOCAL-00001" summary="I add a comment.">
+      <created>1608370784234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608370784234</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I add a comment." />
+    <option name="LAST_COMMIT_MESSAGE" value="I add a comment." />
   </component>
   <component name="WindowStateProjectService">
     <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1608370678415">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1608370678415" />
-    <state width="1343" height="172" key="GridCell.Tab.0.bottom" timestamp="1608370669895">
+    <state x="527" y="297" width="312" height="207" key="Github.ShareDialog" timestamp="1608370700986">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1608370669895" />
-    <state width="1343" height="172" key="GridCell.Tab.0.center" timestamp="1608370669895">
+    <state x="527" y="297" width="312" height="207" key="Github.ShareDialog/0.27.1366.741@0.27.1366.741" timestamp="1608370700986" />
+    <state x="451" y="84" width="454" height="633" key="Github.UntrackedFilesDialog" timestamp="1608370706258">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1608370669895" />
-    <state width="1343" height="172" key="GridCell.Tab.0.left" timestamp="1608370669894">
+    <state x="451" y="84" width="454" height="633" key="Github.UntrackedFilesDialog/0.27.1366.741@0.27.1366.741" timestamp="1608370706258" />
+    <state width="1343" height="172" key="GridCell.Tab.0.bottom" timestamp="1608370739292">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1608370669894" />
-    <state width="1343" height="172" key="GridCell.Tab.0.right" timestamp="1608370669895">
+    <state width="1343" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1608370739292" />
+    <state width="1343" height="172" key="GridCell.Tab.0.center" timestamp="1608370739292">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1608370669895" />
+    <state width="1343" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1608370739292" />
+    <state width="1343" height="172" key="GridCell.Tab.0.left" timestamp="1608370739291">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1608370739291" />
+    <state width="1343" height="172" key="GridCell.Tab.0.right" timestamp="1608370739292">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1343" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1608370739292" />
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1608370800980">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1608370800980" />
+    <state x="464" y="312" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608370770696">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="464" y="312" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1608370770696" />
   </component>
 </project>
