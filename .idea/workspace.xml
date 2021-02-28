@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="425fec0e-3986-4dcd-ba43-0c08980cae36" name="Default Changelist" comment="I add task5.js.">
-      <change afterPath="$PROJECT_DIR$/assets/js/task6forHW27122020.js" afterDir="false" />
+    <list default="true" id="425fec0e-3986-4dcd-ba43-0c08980cae36" name="Default Changelist" comment="I add some lines in task5.js.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +101,11 @@
       <workItem from="1608369166580" duration="9149000" />
       <workItem from="1608452518318" duration="7518000" />
       <workItem from="1608975173850" duration="1237000" />
-      <workItem from="1609056788318" duration="8320000" />
+      <workItem from="1609056788318" duration="8358000" />
+      <workItem from="1610179814312" duration="4252000" />
+      <workItem from="1614426230846" duration="611000" />
+      <workItem from="1614427257318" duration="1231000" />
+      <workItem from="1614499058707" duration="813000" />
     </task>
     <task id="LOCAL-00001" summary="I add a comment.">
       <created>1608370784234</created>
@@ -146,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609061285590</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="I add some lines in task5.js.">
+      <created>1609069696166</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609069696166</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,13 +181,14 @@
     <MESSAGE value="I add another task for examples of Js." />
     <MESSAGE value="I add task js." />
     <MESSAGE value="I add task5.js." />
-    <option name="LAST_COMMIT_MESSAGE" value="I add task5.js." />
+    <MESSAGE value="I add some lines in task5.js." />
+    <option name="LAST_COMMIT_MESSAGE" value="I add some lines in task5.js." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1608370678415">
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1614499872893">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1608370678415" />
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1614499872893" />
     <state x="527" y="297" width="312" height="207" key="Github.ShareDialog" timestamp="1608370700986">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -186,22 +197,22 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="451" y="84" width="454" height="633" key="Github.UntrackedFilesDialog/0.27.1366.741@0.27.1366.741" timestamp="1608370706258" />
-    <state width="1343" height="172" key="GridCell.Tab.0.bottom" timestamp="1609067863087">
+    <state width="1343" height="172" key="GridCell.Tab.0.bottom" timestamp="1609069713718">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1609067863087" />
-    <state width="1343" height="172" key="GridCell.Tab.0.center" timestamp="1609067863086">
+    <state width="1343" height="172" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1609069713718" />
+    <state width="1343" height="172" key="GridCell.Tab.0.center" timestamp="1609069713717">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1609067863086" />
-    <state width="1343" height="172" key="GridCell.Tab.0.left" timestamp="1609067863086">
+    <state width="1343" height="172" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1609069713717" />
+    <state width="1343" height="172" key="GridCell.Tab.0.left" timestamp="1609069713717">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1609067863086" />
-    <state width="1343" height="172" key="GridCell.Tab.0.right" timestamp="1609067863087">
+    <state width="1343" height="172" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1609069713717" />
+    <state width="1343" height="172" key="GridCell.Tab.0.right" timestamp="1609069713718">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state width="1343" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1609067863087" />
+    <state width="1343" height="172" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1609069713718" />
     <state width="1343" height="215" key="GridCell.Tab.1.bottom" timestamp="1608379116127">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -218,14 +229,14 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state width="1343" height="215" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1608379116127" />
-    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1609061292575">
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1609069699938">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1609061292575" />
-    <state x="464" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609061264206">
+    <state x="278" y="133" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1609069699938" />
+    <state x="464" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609069677143">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="464" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1609061264206" />
+    <state x="464" y="312" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1609069677143" />
     <state x="347" y="174" key="run.anything.popup" timestamp="1608375581055">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
@@ -240,7 +251,6 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/assets/js/task5.js</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
